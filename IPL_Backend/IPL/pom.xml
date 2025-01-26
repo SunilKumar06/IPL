@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.IndainPremierLeague</groupId>
 	<artifactId>IPL</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0.0.2-SNAPSHOT</version>
 	<name>IPL</name>
 	<description>IPL database and Stats</description>
 	<url/>
